@@ -1,6 +1,0 @@
-[main bb54f2b] new run
- 3 files changed, 27 insertions(+), 27 deletions(-)
- create mode 100644 mess.log
-Warning: Permanently added the ECDSA host key for IP address '140.82.112.3' to the list of known hosts.
-To git@github.com:brutus22/ua.git
-   c541f78..bb54f2b  main -> main
