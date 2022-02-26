@@ -1,6 +1,5 @@
 1. DOWN
 2. DOWN
-3. DOWN
 4. DOWN
 5. DOWN
 6. DOWN
@@ -21,4 +20,3 @@
 50. DOWN
 58. DOWN
 63. DOWN
-65. DOWN
